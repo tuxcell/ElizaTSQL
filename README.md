@@ -1,0 +1,1 @@
+Database administrators are, very often, under terrible pressure that might lead to severe psychological problems. The only solution to this problem is to talk to a therapist. What therapist could be better than one that talks to you from Query Analyzer and is free of charge?
